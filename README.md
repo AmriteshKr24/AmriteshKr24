@@ -1,6 +1,7 @@
 <div>
 👋 About Me
   <br>
+  <br>
 Hey there! I'm Amritesh Kumar, a second-year Information Technology student at IIEST Shibpur, on a thrilling coding journey. 🚀
   <br>
   <br>
