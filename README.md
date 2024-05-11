@@ -1,5 +1,15 @@
-### Hi there 👋
+👋 About Me
+Hey there! I'm Amritesh Kumar, a second-year Information Technology student at IIEST Shibpur, on a thrilling coding journey. 🚀
 
+💡 Passion
+I'm fueled by curiosity and a zest for making tech magic happen. Currently exploring C++, Python🐍 Web Development 💻 and more!
+
+🔧 Skills
+Languages: C/C++,Python,JS
+Web Tech: HTML, CSS, Bootstrap 5
+
+🌐 Connect
+Connect with me on <a href="https://www.linkedin.com/in/amritesh-kumar-773b9929a/</a>LinkedIn">. Happy coding! ✨🚀
 <!--
 **AmriteshKr24/AmriteshKr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
