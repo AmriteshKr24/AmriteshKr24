@@ -9,7 +9,7 @@ Languages: C/C++,Python,JS
 Web Tech: HTML, CSS, Bootstrap 5
 
 🌐 Connect
-Connect with me on <a href="https://www.linkedin.com/in/amritesh-kumar-773b9929">LinkedIn</a>>. Happy coding! ✨🚀
+Connect with me on <a href="https://www.linkedin.com/in/amritesh-kumar-773b9929">LinkedIn</a>. Happy coding! ✨🚀
 <!--
 **AmriteshKr24/AmriteshKr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
