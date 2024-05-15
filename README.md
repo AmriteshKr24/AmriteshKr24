@@ -25,7 +25,7 @@ Database: MYSQL
 
 🌐 Connect with me on <a href="https://www.linkedin.com/in/amritesh-kumar-773b9929">LinkedIn</a>. Happy coding! ✨🚀
   <br>
-  </div>
+ 
 <!--
 **AmriteshKr24/AmriteshKr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
