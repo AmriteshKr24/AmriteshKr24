@@ -1,26 +1,17 @@
 # 👋 About Me
-  <br>
-  <br>
+
 Hey there! I'm Amritesh Kumar, a second-year Information Technology student at IIEST Shibpur, on a thrilling coding journey. 🚀
-  <br>
-  <br>
 
 # 💡 Passion
-  <br>
-  <br>
+
 I'm fueled by curiosity and a zest for making tech magic happen. Currently exploring C++, Python🐍 Web Development 💻 and more!
-  <br>
-  <br>
 
 #  🔧 Skills
-  <br>
-  <br>
+
 Languages: C/C++, Python, JS
-  <br>
-  <br>
+
 Web Tech: HTML, CSS, Bootstrap 5
-  <br>
-  <br>
+
 Database: MYSQL
 
 🌐 Connect with me on <a href="https://www.linkedin.com/in/amritesh-kumar-773b9929">LinkedIn</a>. Happy coding! ✨🚀
