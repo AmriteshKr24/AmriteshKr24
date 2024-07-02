@@ -10,7 +10,7 @@ I'm fueled by curiosity and a zest for making tech magic happen. Currently explo
 
 Languages: C/C++, Python, JS
 
-Web Tech: HTML, CSS, Bootstrap 5
+Web Tech: HTML, CSS, Bootstrap 5, React.js, Node.js, Express.js
 
 Database: MYSQL
 
