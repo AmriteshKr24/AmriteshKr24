@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hey there! I'm Amritesh Kumar, a second-year Information Technology student at IIEST Shibpur, on a thrilling coding journey. 🚀
+Hey there! I'm Amritesh Kumar, a third-year Information Technology student at IIEST Shibpur, on a thrilling coding journey. 🚀
 
 # 💡 Passion
 
@@ -12,7 +12,7 @@ Languages: C/C++, Python, JS
 
 Web Tech: HTML, CSS, Bootstrap 5, React.js, Node.js, Express.js
 
-Database: MYSQL
+Database: MYSQL, MongoDB
 
 🌐 Connect with me on <a href="https://www.linkedin.com/in/amritesh-kumar-773b9929">LinkedIn</a>. Happy coding! ✨🚀
   <br>
